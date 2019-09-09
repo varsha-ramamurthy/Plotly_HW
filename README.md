@@ -2,7 +2,7 @@
 
 ## Belly Button Biodiversity
 
-- Using the dataset from rubdunnlab, an interactive dashboard was built to display the results of data showing different microbes in sample navels
+- Using the dataset from robdunnlab, an interactive dashboard was built to display the results of data showing different microbes in sample navels
 
 - Using Plotly, both pie and scatter plots were made to display the amount of presence of top 10 microbes in the navel
 
