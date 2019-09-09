@@ -6,4 +6,4 @@
 
 - Using Plotly, both pie and scatter plots were made to display the amount of presence of top 10 microbes in the navel
 
--A Heroku app varsha-plotly-hw was created and connected to this Github repository, allowing automatic deploys from the master branch 
+- A Heroku app varsha-plotly-hw was created. The app created on this repository was deployed to the newly created heroku app
